@@ -27,9 +27,6 @@ The technology stack used to create the backend of this application is as follow
     - black
     - vscode
 
-# Blog
-https://www.jeffastor.com/
-
 ## Roadmap and Completed Articles
 
 ✅ - Completed
@@ -58,3 +55,6 @@ https://www.jeffastor.com/
 - Part 19: Creating and viewing job offers with React and FastAPI ✅📱
 - Part 20: Approving and rejecting job offers with React and FastAPI ✅🚂📱
 - Part 21: Serving a paginated activity feed from FastAPI ✅🚂📱
+
+## Blog
+https://www.jeffastor.com/
