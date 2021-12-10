@@ -27,7 +27,7 @@ The technology stack used to create the backend of this application is as follow
     - black
     - vscode
 
-#Blog
+# Blog
 https://www.jeffastor.com/
 
 ## Roadmap and Completed Articles
